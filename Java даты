@@ -61,7 +61,6 @@ public class Date {
             }
         }
     }
-    
     public static Date sub(Date subd, int sday){
         if(subd.year % 4 == 0)
             m[1] = 29;
