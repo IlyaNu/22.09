@@ -98,7 +98,7 @@ public class Date {
     public static int diff(Date d1, Date d2){
         m[1] = 28;
         int vis = 0;
-        int y1 = d1.year;
+        int y1 = d1.;
         int y2 = d2.year;
         int iter = 1;
         if(d1.year > d2.year){
