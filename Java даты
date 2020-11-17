@@ -8,7 +8,7 @@ public class Date {
     public Date() {
         year = 0;
         month = 0;
-        day ;
+        day = 0 ;
     }
     
     
